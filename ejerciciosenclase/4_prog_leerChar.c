@@ -1,7 +1,7 @@
 /*------------------------------------------------------------*/
 /*Aldair Manzano Sanchez                                      */
 /* aldairmanzanosanchez@hotmail.com                           */
-/*Lunes 16 de abril del 2018                                  */
+/*miercoles  de abril del 2018                                  */
 /*Programa para cambiar de minusculas a mayusculas            */
 /*------------------------------------------------------------*/
 
